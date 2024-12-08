@@ -1,6 +1,6 @@
 Assignment-10 Demo Video: https://youtu.be/Bz5_xXdLYrY
 
-Download nzip the coco_images_resized.zip file and name the directory /images and place the folder in tsagaanb-assignment-10/static/images. 
+Download and unzip coco_images_resized.zip file and name the directory /images and place the folder in tsagaanb-assignment-10/static/images. 
 Download and place the image_embeddings.pickle file in a directory called tsagaanb-assignment-10/data.
 
 (These files were not committed and added to the repo due to them exceeding the file size restrictions for github.)
